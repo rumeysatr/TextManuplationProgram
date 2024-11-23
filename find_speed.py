@@ -1,4 +1,3 @@
-.
 import tkinter as tk
 from tkinter import Text
 from datetime import datetime
